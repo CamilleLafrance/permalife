@@ -1,9 +1,10 @@
+A project in SwiftUI done in a month with 3 other teammates in 2023 January-February.
+
 # Concept 
 It is a market place that allows you to start permaculture if you live in a city apartment.
 
 # Context
 Apple Foundation Program with Simplon
-A project in SwiftUI done in a month with 3 other teammates in 2023 January-February.
 
 # Theme 
 Biodiversity
