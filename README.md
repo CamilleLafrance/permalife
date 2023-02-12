@@ -9,8 +9,7 @@ Biodiversity
 # Concept 
 It is a market place that allows you to start permaculture if you live in a city apartment.
 
-<img width="354" alt="2  HomePage" src="https://user-images.githubusercontent.com/77630883/218319597-ad135a43-fed7-48fb-a230-fe7b6f81048f.png">
-<img width="359" alt="3  CreateMyGarden" src="https://user-images.githubusercontent.com/77630883/218319601-081cfb3d-e1b6-47e4-9f81-41665ed45f6f.png">
+<img width="354" alt="2  HomePage" src="https://user-images.githubusercontent.com/77630883/218319597-ad135a43-fed7-48fb-a230-fe7b6f81048f.png"> <img width="359" alt="3  CreateMyGarden" src="https://user-images.githubusercontent.com/77630883/218319601-081cfb3d-e1b6-47e4-9f81-41665ed45f6f.png">
 <img width="352" alt="5  StorePage" src="https://user-images.githubusercontent.com/77630883/218319609-33181acf-f55d-400e-9bd2-99ef06f6f135.png">
 <img width="350" alt="6  StoreDetail" src="https://user-images.githubusercontent.com/77630883/218319612-e2478403-7d4f-4a0a-bd0d-98e824102ef8.png">
 <img width="350" alt="7  MyOrder" src="https://user-images.githubusercontent.com/77630883/218319615-94fb0617-4a30-4c9f-82e5-6441f54938d6.png">
